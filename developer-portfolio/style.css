@@ -47,3 +47,7 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+section {
+    display: flex;
+}
